@@ -8,8 +8,6 @@ exclude:
   - README.md
   - go
 
-baseurl: /
-
 permalink: pretty
 highlighter: rouge
 kramdown:
