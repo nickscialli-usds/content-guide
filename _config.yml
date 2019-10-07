@@ -1,4 +1,4 @@
-baseurl: /content-style-guide
+baseurl: /
 markdown: redcarpet
 name: 18F Content Style
 exclude:
